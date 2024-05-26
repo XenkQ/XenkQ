@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenkq&label=Profile%20views&color=0e75b6&style=flat" alt="xenkq" /> </p>
 
-- 🔭 I’m currently working on Inpensa - organization expenses tracker (currently private repo), RetroFPS - game in Unreal Engine (currently private repo)
+- 🔭 I’m currently working on **Inpensa** - organization expenses tracker (currently private repo), **RetroFPS** - game in Unreal Engine (name is only temporary, project in private repo)
 
 - 🌱 I’m currently learning **Web Development, Game Dev and python**
 
