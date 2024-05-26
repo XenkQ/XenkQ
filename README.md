@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenkq&label=Profile%20views&color=0e75b6&style=flat" alt="xenkq" /> </p>
 
-- 🔭 I’m currently working on Inpensa (currently private repo)
+- 🔭 I’m currently working on Inpensa - expenses tracker (currently private repo), RetroFPS - game in Unreal Engine (currently private repo)
 
-- 🌱 I’m currently learning **Web Development, Game Dev and C#**
+- 🌱 I’m currently learning **Web Development, Game Dev and python**
 
-- 💬 Ask me about **Unity, Game Dev**
+- 💬 Ask me about **Game Dev**
 
 - 📫 How to reach me **xenkdev@gmail.com**
 
