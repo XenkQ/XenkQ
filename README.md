@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenkq&label=Profile%20views&color=0e75b6&style=flat" alt="xenkq" /> </p>
 
-- 🔭 I’m currently working on [LightMagus](https://github.com/XenkQ/LightMagus)
+- 🔭 I’m currently working on Inpensa (currently private repo)
 
 - 🌱 I’m currently learning **Web Development, Game Dev and C#**
 
