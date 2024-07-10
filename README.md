@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenkq&label=Profile%20views&color=0e75b6&style=flat" alt="xenkq" /> </p>
 
 🔭 I’m currently working on:
-- **Inpensa** - organization expenses tracker (currently private repo)
-- **RetroFPS** - game in Unreal Engine (name is only temporary, project in private repo)
+- **Wordpress images alt generator** - Program in python that can generate alt text for images without it. Generation is performed by local ollama models.
 
 🌱 I’m currently learning **Web Development, Game Dev and python**
 
