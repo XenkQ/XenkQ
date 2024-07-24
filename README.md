@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hi-its-me-konrad-blaszy%C5%84ski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konrad blaszyński" height="30" width="40" /><a href="https://discord.gg/https://discord.gg/9E3C5Ebx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9E3C5Ebx" height="30" width="40" /></a></a>
+<a href="https://www.linkedin.com/in/hi-its-me-konrad-blaszy%C5%84ski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konrad blaszyński" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
