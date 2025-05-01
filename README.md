@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xenkq&label=Profile%20views&color=0e75b6&style=flat" alt="xenkq" /> </p>
 
 🔭 I’m currently working on:
-- **Wordpress images alt generator** - Program in python that can generate alt text for images without it. Generation is performed by local ollama models.
+- **Car Survivors** - Short game inspired by vampire survivors where you play as car that must survive as long as possible.
 
-🌱 I’m currently learning **Web Development, Game Dev and python**
+🌱 I’m currently learning **Game Dev**
 
 💬 Ask me about **Game Dev**
 
